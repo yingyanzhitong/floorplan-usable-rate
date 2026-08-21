@@ -1,0 +1,23 @@
+floorplan-usable-rate/agents/openai.yaml
+  s_474e8f4552fa17::t_90e7bab9816698 1-4
+floorplan-usable-rate/SKILL.md
+  s_474e8f4552fa17::t_d844975c5185e2 1-47
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.22",
+  "base_commit_sha": "84ab6b884176d7fb40709310c52306529860e8f0",
+  "prompts": {},
+  "logical_commit_id": "d507ac1f241ec60d81d62558f088d022ef27a7b3",
+  "sessions": {
+    "s_474e8f4552fa17": {
+      "agent_id": {
+        "tool": "codex",
+        "id": "01a02260-e188-7ca1-a10d-7003f2578977",
+        "model": "gpt-5.6-terra"
+      },
+      "human_author": null,
+      "total_deletions": 1
+    }
+  }
+}

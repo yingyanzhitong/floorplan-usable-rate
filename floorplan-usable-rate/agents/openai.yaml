@@ -1,0 +1,4 @@
+interface:
+  display_name: "户型得房率测算"
+  short_description: "按户型图尺寸独立核算使用面积与得房率"
+  default_prompt: "使用 $floorplan-usable-rate 按这张户型图的尺寸计算可使用面积，并区分阳台、飘窗和合同待确认空间。"
